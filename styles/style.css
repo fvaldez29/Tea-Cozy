@@ -64,6 +64,7 @@ main{
     width: 1200px;
     padding: 10px;
     opacity: 1;
+    background: black;
 }
 
 h2, h4{
